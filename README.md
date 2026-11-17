@@ -111,6 +111,8 @@ https://smith.langchain.com/o/360bcade-0c06-4e46-956e-94073ea2d61a/datasets/e39d
 Latest experiment:
 
 https://smith.langchain.com/o/360bcade-0c06-4e46-956e-94073ea2d61a/datasets/e39df59c-7850-4f47-883e-790731db6061/compare?selectedSessions=93ac771b-2a43-4ca3-a072-637ee6de77d1
+
+![LangSmith Trace](docs/langsmith-trace.png)
 ## 8. Evaluation
 
 The evaluation dataset contains 26 questions, including answerable questions and questions requiring refusal.
