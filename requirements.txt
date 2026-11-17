@@ -1,0 +1,12 @@
+pymongo
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-mongodb
+langgraph
+langsmith
+datasets
+pytest
+sentence-transformers
+google-genai
