@@ -127,7 +127,7 @@ Evaluation metrics:
 - Citation groundedness
 - Refusal correctness
 
-Latest local evaluation results:
+Latest Colab evaluation results:
 
 | Metric | Result |
 |---|---:|
@@ -149,10 +149,10 @@ Regression thresholds:
 
 **Regression gate: PASSED**
 
-These results are from the local evaluation run. They should not be confused with the historical LangSmith experiment averages.
+These results are from the Colab evaluation run.. They should not be confused with the historical LangSmith experiment averages.
 
 ### LangSmith Evaluation Screenshots
-### LangSmith Evaluation Screenshots
+
 
 ![Results 1](docs/langsmith-results-1-new.png)
 
