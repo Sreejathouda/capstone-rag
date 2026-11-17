@@ -152,6 +152,15 @@ Regression thresholds:
 These results are from the local evaluation run. They should not be confused with the historical LangSmith experiment averages.
 
 ### LangSmith Evaluation Screenshots
+### LangSmith Evaluation Screenshots
+
+![Results 1](docs/langsmith-results-1-new.png)
+
+![Results 2](docs/langsmith-results-2-new.png)
+
+![Results 3](docs/langsmith-results-3-new.png)
+
+![Results 4](docs/langsmith-results-4-new.png)
 
 
 ## 9. Running the Project
