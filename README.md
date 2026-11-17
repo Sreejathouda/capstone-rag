@@ -51,7 +51,7 @@ The ingestion pipeline performs the following steps:
 Configuration:
 
 - Chunk size: 1000 characters
-- Chunk overlap: 200 characters
+- Chunk overlap: 150 characters
 - Embedding model: `all-MiniLM-L6-v2`
 - Embedding dimensions: 384
 - Total chunks created: 4,345
