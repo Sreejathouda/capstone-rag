@@ -153,13 +153,6 @@ These results are from the local evaluation run. They should not be confused wit
 
 ### LangSmith Evaluation Screenshots
 
-![Results 1](docs/langsmith-results-1.png)
-
-![Results 2](docs/langsmith-results-2.png)
-
-![Results 3](docs/langsmith-results-3.png)
-
-![Results 4](docs/langsmith-results-4.png)
 
 ## 9. Running the Project
 
